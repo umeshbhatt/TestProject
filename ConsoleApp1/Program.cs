@@ -12,5 +12,7 @@ namespace ConsoleApp1
             Console.WriteLine("Base 1");
             Console.WriteLine("Base 1 after hotfix");
         }
+
+        private void Hotfix2() { };
     }
 }
