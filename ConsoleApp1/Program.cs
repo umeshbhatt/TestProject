@@ -10,6 +10,7 @@ namespace ConsoleApp1
         public static void Main(string[] args)
         {
             Console.WriteLine("Base 1");
+            Console.WriteLine("Base 1 after hotfix");
         }
     }
 }
